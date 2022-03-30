@@ -5,7 +5,7 @@ ruby '2.5.5'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.3'
-gem 'puma', '~> 3.12' # app server
+gem 'puma', '~> 4.3' # app server
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0' # compressor for JavaScript assets
 # gem 'mini_racer', platforms: :ruby
